@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=mathApp
+comment1.params=
+comment1.target=mathApp()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ helloWorld\r\n
+comment2.params=max
+comment2.target=void\ fibonacciSequence(int)
+comment3.params=x\ y
+comment3.target=int\ binaryMultiplication(int,\ int)
+comment4.params=userPrompt
+comment4.target=java.lang.String\ getUserInput(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
